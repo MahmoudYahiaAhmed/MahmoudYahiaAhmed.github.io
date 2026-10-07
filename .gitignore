@@ -1,0 +1,12 @@
+# Local preview and verification artifacts
+output/
+.sass-cache/
+.publish/
+
+# Dependencies and local settings
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
